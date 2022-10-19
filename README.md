@@ -26,4 +26,4 @@ Install the requirements
 
 Contributions are always welcome!
 
-Contact me via Discord (_✞ Tito Delas ✞#8910_)
+Contact me via Discord ✞ Tito Delas ✞#8910
