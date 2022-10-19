@@ -1,0 +1,15 @@
+pycryptodomex
+pysqlite3
+pypiwin32
+requests
+pynput
+pyaudio
+folium
+discord
+discord-webhook
+opencv-python
+pycaw
+requests
+pywin32
+pyautogui
+pyinstaller
