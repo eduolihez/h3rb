@@ -8,6 +8,9 @@ A simple tool to steal browsers data, passwords, cookies, and relevant informati
 - Steal Discord Tokens
 - Send PC information + installed browsers
 
+# To Do
+[ ] Improve the actual project (commands, tools, connections...)
+[ ] Cripto Wallet Stealer
 
 ## Installation
 
